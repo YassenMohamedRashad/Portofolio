@@ -1,0 +1,29 @@
+
+{
+  "name": "Yassen",
+  "fullName": "Yassen Mohamed Rashad",
+  "title": "Backend Engineer",
+  "roles": [
+    "Backend Developer",
+    "Laravel Expert", 
+    "API Architect",
+    "Node.js Developer"
+  ],
+  "experience": "6 months",
+  "description": "I build robust, scalable backend systems and APIs that power modern web applications. Specializing in Laravel, Node.js, and clean architecture.",
+  "bio": [
+    "I'm a passionate Backend Engineer with 6 months of experience building scalable web applications and APIs. My journey in software development has been driven by a love for clean code, system architecture, and solving complex technical challenges.",
+    "I specialize in Laravel and Node.js, creating robust backend systems that handle everything from user authentication to complex business logic. I believe in writing maintainable code and following best practices to deliver high-quality solutions."
+  ],
+  "coreValues": [
+    "Clean, maintainable code architecture",
+    "Performance-first approach", 
+    "Continuous learning and improvement",
+    "Collaborative problem-solving"
+  ],
+  "contact": {
+    "email": "yassenmohamedrashad@gmail.com",
+    "github": "https://github.com/YassenMohamedRashad",
+    "linkedin": "www.linkedin.com/in/yassenmohamedrashad"
+  }
+}

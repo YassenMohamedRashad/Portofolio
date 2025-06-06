@@ -1,0 +1,57 @@
+
+{
+  "projects": [
+    {
+      "title": "HR-Matrix",
+      "description": "Comprehensive Human Resources Management System ,featuring employee management, and performance tracking.",
+      "tech": [],
+      "features": [
+        "Employee lifecycle management",
+        "Automated payroll processing",
+        "Performance evaluation system",
+        "Role-based access control"
+      ],
+      "githubUrl": "",
+      "liveUrl": "https://hrmatrix.aimatrixeg.com/"
+    },
+    {
+      "title": "Ink-Shelf",
+      "description": "Interactive book discovery platform with real-time search integration using Google Books API, built with Laravel and Blade templating engine.",
+      "tech": ["Laravel", "Blade", "Google Books API", "Tailwind CSS"],
+      "features": [
+        "Real-time book search",
+        "Personal reading lists",
+        "Book recommendations",
+        "User reviews and ratings"
+      ],
+      "githubUrl": "https://github.com/YassenMohamedRashad/InkShelf",
+      "liveUrl": ""
+    },
+    {
+      "title": "Dern-Support",
+      "description": "Advanced customer support system with admin dashboard built using Laravel Filament and Blade components for streamlined support ticket management.",
+      "tech": ["Laravel", "Filament", "Blade", "MySQL"],
+      "features": [
+        "Ticket management system",
+        "Real-time notifications",
+        "Analytics dashboard",
+        "Multi-agent support"
+      ],
+      "githubUrl": "https://github.com/YassenMohamedRashad/Dern-Support",
+      "liveUrl": ""
+    },
+    {
+      "title": "MetroMart",
+      "description": "Full-stack e-commerce platform built with Laravel and Blade templates, featuring complete shopping experience with admin panel.",
+      "tech": ["Laravel", "Blade", "MySQL", "Bootstrap"],
+      "features": [
+        "Shopping cart & checkout",
+        "Payment integration",
+        "Inventory management",
+        "Order tracking system"
+      ],
+      "githubUrl": "https://github.com/YassenMohamedRashad/Metromart",
+      "liveUrl": ""
+    }
+  ]
+}
