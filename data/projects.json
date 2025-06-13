@@ -2,6 +2,19 @@
 {
   "projects": [
     {
+      "title": "Content Schedular",
+      "description": "Connect user platforms , activate it and schedule posts or draft it",
+      "tech": ["Laravel","queues & jobs" , "React" , "Vite"],
+      "features": [
+        "Connect user platforms",
+        "Schedule posts",
+        "User activity logs",
+        "Dashboard analytics"
+      ],
+      "githubUrl": "",
+      "liveUrl": "https://content-schedular-frontend.vercel.app/"
+    },
+    {
       "title": "HR-Matrix",
       "description": "Comprehensive Human Resources Management System ,featuring employee management, and performance tracking.",
       "tech": [],
